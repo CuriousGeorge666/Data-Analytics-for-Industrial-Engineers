@@ -1,1 +1,1 @@
-# IE5005-Data-Analytics-for-Industrial-Engineers
+# Data-Analytics-for-Industrial-Engineers
